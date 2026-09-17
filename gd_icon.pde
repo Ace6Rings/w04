@@ -1,0 +1,12 @@
+size (500, 500);
+background (110, 0, 255);
+stroke (0, 255, 255);
+fill (0, 150, 255);
+strokeWeight(10);
+square (100, 100, 300);
+fill (110, 0, 255);
+stroke (0);
+square (180, 180, 140);
+fill (0, 220, 255);
+strokeWeight(0);
+square (220, 220, 60);
